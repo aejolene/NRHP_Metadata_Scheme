@@ -1,107 +1,92 @@
 Name,Description,Category_Name
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,TRANSPORTATION
-,,WORK IN PROGRESS
-,,UNKNOWN
-,,VACANT/NOT IN USE
-,,OTHER
-single dwelling,"Examples: rowhouse, mansion, residence, rockshelter, homestead, cave",DOMESTIC
-multiple dwelling,"Examples: duplex, apartment building, pueblo, rockshelter, cave",DOMESTIC
-"Example: dairy, smokehouse, storage pit, storage shed, kitchen, garage, other dependencies",,DOMESTIC
-hotel,"Examples: inn, hotel, motel, way station",DOMESTIC
-institutional housing,"Examples: military quarters, staff housing, poor house, orphanage",DOMESTIC
-camp,"Examples: hunting campsite, fishing camp, summer camp, forestry camp, seasonal residence, temporary, habitation site, tipi rings",DOMESTIC
-village site,Examples: pueblo group,DOMESTIC
-business,Examples: office building,COMMERCE/TRADE
-professional,"Examples: architect's studio, engineering office, law office",COMMERCE/TRADE
-organizational,"Examples: trade union, labor union, professional association",COMMERCE/TRADE
-financial institution,"Examples: savings and loan association, bank, stock exchange",COMMERCE/TRADE
-specialty store,"Examples: auto showroom, bakery, clothing store, blacksmith shop, hardware store",COMMERCE/TRADE
-department store,"Examples: general store, department store, marketplace, trading post",COMMERCE/TRADE
-restaurant,"Examples: cafe, bar, roadhouse, tavern",COMMERCE/TRADE
-warehouse,"Examples: warehouse, commercial storage",COMMERCE/TRADE
-trade (archeology),"Examples: cache, site with evidence of trade, storage pit",COMMERCE/TRADE
-meeting hall,"Examples: grange; union hall; Pioneer hall; hall of other fraternal, patriotic, or political organization",SOCIAL
-clubhouse,"Examples: facility of literary, social, or garden club",SOCIAL
-civic,Examples: facility of volunteer or public service organizations such as the American Red Cross,SOCIAL
-capitol,"Examples: statehouse, assembly building",GOVERNMENT
-city hall,"Examples: city hall, town hall",GOVERNMENT
-correctional facility,"Examples: police station, jail, prison",GOVERNMENT
-fire station,Examples: firehouse,GOVERNMENT
-government office,Examples: municipal building,GOVERNMENT
-diplomatic building,"Examples: embassy, consulate",GOVERNMENT
-custom house,Examples: custom house,GOVERNMENT
-post office,Examples: post office,GOVERNMENT
-public works,"Examples: electric generating plant, sewer system",GOVERNMENT
-courthouse,"Examples: county courthouse, Federal courthouse",GOVERNMENT
-schools,"Examples: schoolhouse, academy, secondary school, grammar school, trade or technical school",EDUCATION
-college,"Examples: university, college, junior college",EDUCATION
-library,Examples: library,EDUCATION
-research facility,"Examples: laboratory, observatory, planetarium",EDUCATION
-education-related,"Examples: college dormitory, housing at boarding schools",EDUCATION
-religious facility,"Examples: church, temple, synagogue, cathedral, mission, temple, mound, sweathouse, kiva, dance court, shrine",RELIGION
-ceremonial site,"Examples: astronomical observation post, intaglio, petroglyph site",RELIGION
-church school,Examples: religious academy or schools,RELIGION
-church-related residence,"Examples: parsonage, convent, rectory",RELIGION
-cemetery,"Examples: burying ground, burial site, cemetery, ossuary",FUNERARY
-graves/burials,"Examples: burial cache, burial mound, grave area, crematorium",FUNERARY
-mortuary,"Examples: mortuary site, funeral home, cremation",FUNERARY
-theater,"Examples: cinema, movie theater, playhouse",RECREATION AND CULTURE
-auditorium,"Examples: hall, auditorium",RECREATION AND CULTURE
-museum,"Examples: museum, art gallery, exhibition hall",RECREATION AND CULTURE
-music facility,"Examples: concert-hall, opera house, bandstand, dancehall",RECREATION AND CULTURE
-outdoor recreation,"Examples: park, campground, picnic area, hiking trail",RECREATION AND CULTURE
-fair,"Examples: amusement park, county fairground",RECREATION AND CULTURE
-monument/marker,"Examples: commemorative marker, commemorative monument",RECREATION AND CULTURE
-work of art,"Examples: sculpture, carving, statue, mural, rock art",RECREATION AND CULTURE
-processing,"Examples: meatpacking plant, cannery, smokehouse, brewery, winery, food processing site, gathering site, tobacco barn",AGRICULTURE/SUBSISTENCE
-storage,"Examples: granary, silo, wine cellar, storage site, tobacco warehouse, cotton warehouse",AGRICULTURE/SUBSISTENCE
-agricultural field,"Examples: pasture, vineyard, orchard, wheatfield, crop marks, stone alignments, terrace, hedgerow",AGRICULTURE/SUBSISTENCE
-animal facility,"Examples: hunting & kill site, stockyard, barn, chicken coop, hunting corral, hunting run, apiary",AGRICULTURE/SUBSISTENCE
-fishing facility or site,"Examples: fish hatchery, fishing grounds",AGRICULTURE/SUBSISTENCE
-horticultural facility,"Examples: greenhouse, plant observatory, garden",AGRICULTURE/SUBSISTENCE
-agricultural outbuilding,"Examples: wellhouse, wagon shed, tool shed, barn",AGRICULTURE/SUBSISTENCE
-irrigation facility,"Examples: irrigation system, canals, stone alignments, headgates, check dams",AGRICULTURE/SUBSISTENCE
-manufacturing facility,"Examples: mill, factory, refinery, processing plant, pottery kiln",INDUSTRY/PROCESSING/EXTRACTION
-extractive facility,"Examples: coal mine, oil derrick, gold dredge, quarry, salt mine",INDUSTRY/PROCESSING/EXTRACTION
-waterworks,"Examples: reservoir, water tower, canal, dam",INDUSTRY/PROCESSING/EXTRACTION
-energy facility,"Examples: windmill, power plant, hydroelectric dam",INDUSTRY/PROCESSING/EXTRACTION
-communications facility,"Examples: telegraph cable station, printing plant, television station, telephone company facility, satellite tracking station",INDUSTRY/PROCESSING/EXTRACTION
-processing site,"Examples: shell processing site, toolmaking site, copper mining and processing site",INDUSTRY/PROCESSING/EXTRACTION
-industrial storage,Examples: warehouse,INDUSTRY/PROCESSING/EXTRACTION
-hospital,"Examples: veteran's medical center, mental hospital, private or public hospital, medical research facility",HEALTH CARE
-clinic,"Examples: dispensary, doctor's office",HEALTH CARE
-sanitarium,"Examples: nursing home, rest home, sanitarium",HEALTH CARE
-medical business/office,"Examples: pharmacy, medical supply store, doctor or dentist's office",HEALTH CARE
-resort,"Examples: baths, spas, resort facility",HEALTH CARE
-arms storage,"Examples: magazine, armory",DEFENSE
-fortification,"Examples: fortified military or naval post, earth fortified village, palisaded village, fortified knoll or mountain top, battery, bunker",DEFENSE
-military facility,"Examples: military post, supply depot, garrison fort, barrack, military camp",DEFENSE
-battle site,Examples: battlefield,DEFENSE
-coast guard facility,"Examples: lighthouse, coast guard station, pier, dock, life-saving station",DEFENSE
-naval facility,"Examples: submarine, aircraft carrier, battleship, naval base",DEFENSE
-air facility,"Examples: aircraft, air base, missile launching site",DEFENSE
+single dwelling,"rowhouse, mansion, residence, rockshelter, homestead, cave",DOMESTIC
+multiple dwelling,"duplex, apartment building, pueblo, rockshelter, cave",DOMESTIC
+secondary structure,"dairy, smokehouse, storage pit, storage shed, kitchen, garage, other dependencies",DOMESTIC
+hotel,"inn, hotel, motel, way station",DOMESTIC
+institutional housing,"military quarters, staff housing, poor house, orphanage",DOMESTIC
+camp,"hunting campsite, fishing camp, summer camp, forestry camp, seasonal residence, temporary, habitation site, tipi rings",DOMESTIC
+village site,pueblo group,DOMESTIC
+business,office building,COMMERCE/TRADE
+professional,"architect's studio, engineering office, law office",COMMERCE/TRADE
+organizational,"trade union, labor union, professional association",COMMERCE/TRADE
+financial institution,"savings and loan association, bank, stock exchange",COMMERCE/TRADE
+specialty store,"auto showroom, bakery, clothing store, blacksmith shop, hardware store",COMMERCE/TRADE
+department store,"general store, department store, marketplace, trading post",COMMERCE/TRADE
+restaurant,"cafe, bar, roadhouse, tavern",COMMERCE/TRADE
+warehouse,"warehouse, commercial storage",COMMERCE/TRADE
+trade (archeology),"cache, site with evidence of trade, storage pit",COMMERCE/TRADE
+meeting hall,"grange; union hall; Pioneer hall; hall of other fraternal, patriotic, or political organization",SOCIAL
+clubhouse,"facility of literary, social, or garden club",SOCIAL
+civic,facility of volunteer or public service organizations such as the American Red Cross,SOCIAL
+capitol,"statehouse, assembly building",GOVERNMENT
+city hall,"city hall, town hall",GOVERNMENT
+correctional facility,"police station, jail, prison",GOVERNMENT
+fire station,firehouse,GOVERNMENT
+government office,municipal building,GOVERNMENT
+diplomatic building,"embassy, consulate",GOVERNMENT
+custom house,custom house,GOVERNMENT
+post office,post office,GOVERNMENT
+public works,"electric generating plant, sewer system",GOVERNMENT
+courthouse,"county courthouse, Federal courthouse",GOVERNMENT
+schools,"schoolhouse, academy, secondary school, grammar school, trade or technical school",EDUCATION
+college,"university, college, junior college",EDUCATION
+library,library,EDUCATION
+research facility,"laboratory, observatory, planetarium",EDUCATION
+education-related,"college dormitory, housing at boarding schools",EDUCATION
+religious facility,"church, temple, synagogue, cathedral, mission, temple, mound, sweathouse, kiva, dance court, shrine",RELIGION
+ceremonial site,"astronomical observation post, intaglio, petroglyph site",RELIGION
+church school,religious academy or schools,RELIGION
+church-related residence,"parsonage, convent, rectory",RELIGION
+cemetery,"burying ground, burial site, cemetery, ossuary",FUNERARY
+graves/burials,"burial cache, burial mound, grave area, crematorium",FUNERARY
+mortuary,"mortuary site, funeral home, cremation",FUNERARY
+theater,"cinema, movie theater, playhouse",RECREATION AND CULTURE
+auditorium,"hall, auditorium",RECREATION AND CULTURE
+museum,"museum, art gallery, exhibition hall",RECREATION AND CULTURE
+music facility,"concert-hall, opera house, bandstand, dancehall",RECREATION AND CULTURE
+outdoor recreation,"park, campground, picnic area, hiking trail",RECREATION AND CULTURE
+fair,"amusement park, county fairground",RECREATION AND CULTURE
+monument/marker,"commemorative marker, commemorative monument",RECREATION AND CULTURE
+work of art,"sculpture, carving, statue, mural, rock art",RECREATION AND CULTURE
+processing,"meatpacking plant, cannery, smokehouse, brewery, winery, food processing site, gathering site, tobacco barn",AGRICULTURE/SUBSISTENCE
+storage,"granary, silo, wine cellar, storage site, tobacco warehouse, cotton warehouse",AGRICULTURE/SUBSISTENCE
+agricultural field,"pasture, vineyard, orchard, wheatfield, crop marks, stone alignments, terrace, hedgerow",AGRICULTURE/SUBSISTENCE
+animal facility,"hunting & kill site, stockyard, barn, chicken coop, hunting corral, hunting run, apiary",AGRICULTURE/SUBSISTENCE
+fishing facility or site,"fish hatchery, fishing grounds",AGRICULTURE/SUBSISTENCE
+horticultural facility,"greenhouse, plant observatory, garden",AGRICULTURE/SUBSISTENCE
+agricultural outbuilding,"wellhouse, wagon shed, tool shed, barn",AGRICULTURE/SUBSISTENCE
+irrigation facility,"irrigation system, canals, stone alignments, headgates, check dams",AGRICULTURE/SUBSISTENCE
+manufacturing facility,"mill, factory, refinery, processing plant, pottery kiln",INDUSTRY/PROCESSING/EXTRACTION
+extractive facility,"coal mine, oil derrick, gold dredge, quarry, salt mine",INDUSTRY/PROCESSING/EXTRACTION
+waterworks,"reservoir, water tower, canal, dam",INDUSTRY/PROCESSING/EXTRACTION
+energy facility,"windmill, power plant, hydroelectric dam",INDUSTRY/PROCESSING/EXTRACTION
+communications facility,"telegraph cable station, printing plant, television station, telephone company facility, satellite tracking station",INDUSTRY/PROCESSING/EXTRACTION
+processing site,"shell processing site, toolmaking site, copper mining and processing site",INDUSTRY/PROCESSING/EXTRACTION
+industrial storage,warehouse,INDUSTRY/PROCESSING/EXTRACTION
+hospital,"veteran's medical center, mental hospital, private or public hospital, medical research facility",HEALTH CARE
+clinic,"dispensary, doctor's office",HEALTH CARE
+sanitarium,"nursing home, rest home, sanitarium",HEALTH CARE
+medical business/office,"pharmacy, medical supply store, doctor or dentist's office",HEALTH CARE
+resort,"baths, spas, resort facility",HEALTH CARE
+arms storage,"magazine, armory",DEFENSE
+fortification,"fortified military or naval post, earth fortified village, palisaded village, fortified knoll or mountain top, battery, bunker",DEFENSE
+military facility,"military post, supply depot, garrison fort, barrack, military camp",DEFENSE
+battle site,battlefield,DEFENSE
+coast guard facility,"lighthouse, coast guard station, pier, dock, life-saving station",DEFENSE
+naval facility,"submarine, aircraft carrier, battleship, naval base",DEFENSE
+air facility,"aircraft, air base, missile launching site",DEFENSE
 parking lot,Examples:,LANDSCAPE
-park,"Examples: city park, State park, national park",LANDSCAPE
-plaza,"Examples: square, green, plaza, public common",LANDSCAPE
+park,"city park, State park, national park",LANDSCAPE
+plaza,"square, green, plaza, public common",LANDSCAPE
 garden,Examples:,LANDSCAPE
 forest,Examples:,LANDSCAPE
-unoccupied land,"Examples: meadow, swamp, desert",LANDSCAPE
-underwater,Examples: underwater site,LANDSCAPE
-natural feature,"Examples: mountain, valley, promontory, tree, river, island, pond, lake",LANDSCAPE
-street furniture/object,"Examples: street light, fence, wall, shelter, gazebo, park bench",LANDSCAPE
-conservation area,"Examples: wildlife refuge, ecological habitat",LANDSCAPE
-rail-related,"Examples: railroad, train depot, locomotive, streetcar line, railroad bridge",TRANSPORTATION
-air-related,"Examples: aircraft, airplane hangar, airport, launching site",TRANSPORTATION
-water-related,"Examples: lighthouse, navigational aid, canal, boat, ship, wharf, shipwreck",TRANSPORTATION
-road-related (vehicular),"Examples: parkway, highway, bridge, toll gate, parking garage",TRANSPORTATION
-pedestrian-related,"Examples: boardwalk, walkway, trail",TRANSPORTATION
+unoccupied land,"meadow, swamp, desert",LANDSCAPE
+underwater,underwater site,LANDSCAPE
+natural feature,"mountain, valley, promontory, tree, river, island, pond, lake",LANDSCAPE
+street furniture/object,"street light, fence, wall, shelter, gazebo, park bench",LANDSCAPE
+conservation area,"wildlife refuge, ecological habitat",LANDSCAPE
+rail-related,"railroad, train depot, locomotive, streetcar line, railroad bridge",TRANSPORTATION
+air-related,"aircraft, airplane hangar, airport, launching site",TRANSPORTATION
+water-related,"lighthouse, navigational aid, canal, boat, ship, wharf, shipwreck",TRANSPORTATION
+road-related (vehicular),"parkway, highway, bridge, toll gate, parking garage",TRANSPORTATION
+pedestrian-related,"boardwalk, walkway, trail",TRANSPORTATION
