@@ -1,19 +1,11 @@
 Name,Description
-DOMESTIC,
-COMMERCE/TRADE,
-SOCIAL,
-GOVERNMENT,
-EDUCATION,
-RELIGION,
-FUNERARY,
-RECREATION AND CULTURE,
-AGRICULTURE/SUBSISTENCE,
-INDUSTRY/PROCESSING/EXTRACTION,
-HEALTH CARE,
-DEFENSE,
-LANDSCAPE,
-TRANSPORTATION,
-WORK IN PROGRESS,use this category when work is in progress
-UNKNOWN,
-VACANT/NOT IN USE,use this category when property is not being used
+NO STYLE,
+COLONIAL,
+EARLY REPUBLIC,
+MID-19TH CENTURY,Early Romanesque Revival
+LATE VICTORIAN,Victorian or High Victorian
+LATE 19TH & 20TH CENTURY REVIVALS,
+LATE 19TH & EARLY 20TH CENTURY AMERICAN MOVEMENTS,Sullivanesque
+MODERN MOVEMENT,New Formalism; Neo-Expressionism; Brutalism; California Style or Ranch Style; Post-Modern; Wrightian
 OTHER,
+MIXED,For a building only. More than three styles from different periods 
